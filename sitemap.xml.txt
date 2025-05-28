@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://echojudge.blogspot.com/2025/05/data-entry-excel-google-sheets-more.html</loc>
+    <lastmod>2025-05-28</lastmod>
+  </url>
+  <url>
+    <loc>https://echojudge.blogspot.com/2025/05/warehouse-management-key-to-efficient.html</loc>
+    <lastmod>2025-05-28</lastmod>
+  </url>
+</urlset>
